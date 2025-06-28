@@ -3,6 +3,9 @@
 This is a sleek and modern developer portfolio built with **React**, **Vite**, and **Tailwind CSS**. It showcases sections like Hero, About, Education, Projects, and Contact, designed to highlight technical skills, educational background, and project experience.
 
 ---
+## 🚀 Live Demo
+
+🌐 [https://ayushm1001-portfolio.vercel.app](https://ayushm1001-portfolio.vercel.app)
 
 ## 🚀 Tech Stack
 
